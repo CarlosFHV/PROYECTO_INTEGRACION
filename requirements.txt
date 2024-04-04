@@ -1,0 +1,1 @@
+pip install django sentiment-analysis-spanish pandas emoji nltk spacy autocorrect
